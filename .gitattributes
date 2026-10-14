@@ -1,0 +1,3 @@
+# Keep Friday's README when merging upstream xiaozhi changes
+# (needs once: git config merge.ours.driver true)
+README.md merge=ours
